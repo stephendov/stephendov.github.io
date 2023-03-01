@@ -1,6 +1,15 @@
-body {background-color: lightcoral; text-align: center;}
+body {background-color: rgb(239, 222, 222); text-align: center;}
 h1 {color:rgb(104, 76, 7); font-size: 40px;}
-p {font-family:Georgia, 'Times New Roman', Times, serif; font-size: 20px; color: rgb(173, 187, 145);}
-testClass {font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 20px; color: rgb(42, 195, 206);}
+p {font-family:Georgia, 'Times New Roman', Times, serif; font-size: 20px; color: rgb(145, 188, 58);}
+div {width: 300px;border: 10px solid green; text-align: center; margin: auto;}
+img {border: 10px solid #6f6f6f; border-radius: 4px;}
+
+.divRed {border: 2px solid rgb(248, 12, 12); width: 500px;}
+.testClass {font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 20px; color: rgb(42, 195, 206);}
 
 #boldAndUnderline {font-weight: bold; text-decoration: underline;}
+
+
+
+
+a:hover {color:rgb(255, 36, 146);}
