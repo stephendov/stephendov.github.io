@@ -8,6 +8,6 @@ img {border: 10px solid #6f6f6f; border-radius: 4px;}
 .testClass {font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 20px; color: rgb(42, 195, 206);}
 
 #boldAndUnderline {font-weight: bold; text-decoration: underline;}
-#boldAndDotted {text-decoration:overline; padding-top: 10px; padding-bottom: 30px;}
+#boldAndOverline {text-decoration:overline; padding-top: 10px; padding-bottom: 30px; color: blueviolet;}
 
 a:hover {color:rgb(255, 36, 146);}
